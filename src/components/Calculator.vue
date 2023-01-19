@@ -1,4 +1,5 @@
 <template>
+<h1> Vue </h1>
   <div class="calculator-result p-3"> 
     <div class="w-full rounded m-1 p-3 text-end lead font-weight-bold text-white bg-vue-dark">
       {{ calculatorValue || 0 }}
